@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/trakteer-assignment/static/css/main.ff4613ad.css",
+    "main.js": "/trakteer-assignment/static/js/main.96e53e4f.js",
+    "static/js/787.6ef4016e.chunk.js": "/trakteer-assignment/static/js/787.6ef4016e.chunk.js",
+    "static/media/3.jpg": "/trakteer-assignment/static/media/3.301b96486aaa0780cd98.jpg",
+    "static/media/2.jpg": "/trakteer-assignment/static/media/2.5c87d579d3c5d026e3b7.jpg",
+    "static/media/1.jpg": "/trakteer-assignment/static/media/1.d83e673b301aff405de3.jpg",
+    "static/media/Montserrat-SemiBoldItalic.ttf": "/trakteer-assignment/static/media/Montserrat-SemiBoldItalic.e2530ce50f6cc45f2830.ttf",
+    "static/media/Montserrat-ExtraBoldItalic.ttf": "/trakteer-assignment/static/media/Montserrat-ExtraBoldItalic.4feac0ff571c88a04550.ttf",
+    "static/media/Montserrat-Italic.ttf": "/trakteer-assignment/static/media/Montserrat-Italic.ffb8374a74a57a2056b5.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/trakteer-assignment/static/media/Montserrat-SemiBold.04af9a9e62bb4c47bd55.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/trakteer-assignment/static/media/Montserrat-ExtraBold.5daafc620ecc802516f9.ttf",
+    "static/media/Montserrat-Regular.ttf": "/trakteer-assignment/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/6.jpg": "/trakteer-assignment/static/media/6.fcabfefdf938ba193d1f.jpg",
+    "static/media/4.jpg": "/trakteer-assignment/static/media/4.03fc7db7e3c184d3da60.jpg",
+    "static/media/5.jpg": "/trakteer-assignment/static/media/5.c38ac4ebb49546afe3ed.jpg",
+    "static/media/Quicksand-SemiBold.ttf": "/trakteer-assignment/static/media/Quicksand-SemiBold.f36a86e2ff447dc869f0.ttf",
+    "static/media/twitter.svg": "/trakteer-assignment/static/media/twitter.b11320e3d6799d29857e310900f74aff.svg",
+    "static/media/youtube.svg": "/trakteer-assignment/static/media/youtube.874c3260fc92626433215bed293f68ae.svg",
+    "static/media/instagram.svg": "/trakteer-assignment/static/media/instagram.f742ff2b416bcd49cd4cb038d1a2717d.svg",
+    "static/media/triple-alt.svg": "/trakteer-assignment/static/media/triple-alt.e890c5d230cfe2216beb23609ef81dc6.svg",
+    "index.html": "/trakteer-assignment/index.html",
+    "static/media/facebook.svg": "/trakteer-assignment/static/media/facebook.e58a918dc10b0c67227bd757c37bb8ed.svg",
+    "static/media/person-add.svg": "/trakteer-assignment/static/media/person-add.d998dbb9a6ad9e44a0349fda5ee3202d.svg",
+    "static/media/link.svg": "/trakteer-assignment/static/media/link.c8440009c3a6f921805f978004af09ef.svg",
+    "static/media/check.svg": "/trakteer-assignment/static/media/check.21dbdd7978a244181dc69516fb779a04.svg",
+    "main.ff4613ad.css.map": "/trakteer-assignment/static/css/main.ff4613ad.css.map",
+    "main.96e53e4f.js.map": "/trakteer-assignment/static/js/main.96e53e4f.js.map",
+    "787.6ef4016e.chunk.js.map": "/trakteer-assignment/static/js/787.6ef4016e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4613ad.css",
+    "static/js/main.96e53e4f.js"
+  ]
+}
