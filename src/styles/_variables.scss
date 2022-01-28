@@ -1,0 +1,13 @@
+// Typography
+$primary_font: "Montserrat", sans-serif;
+$secondary_font: "Quicksand", sans-serif;
+
+// Color
+$font_color: #444444;
+$muted: #949494;
+$bg_icon: #e7e7e7;
+$btn_primary: #3cd278;
+
+// Filter
+$white_filter: brightness(0) invert(1);
+$muted_filter: invert(64%) sepia(12%) saturate(2%) hue-rotate(335deg) brightness(89%) contrast(90%);
